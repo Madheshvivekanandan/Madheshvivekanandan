@@ -24,4 +24,4 @@ I build scalable backend systems and GenAI applications that combine retrieval, 
 
 ## Want to collaborate?
 I’m open to conversations about GenAI applications, backend systems, or open-source contributions.  
-- LinkedIn: [your-linkedin-here](https://linkedin.com/in/your-linkedin) · Email: [your-email-here](mailto:your-email@example.com)
+- LinkedIn: [madhesh-vivekanandan](https://www.linkedin.com/in/madhesh-vivekanandan/) · Email: [madheshvivekanandan@gmail.com](mailto:madheshvivekanandan@gmail.com)
