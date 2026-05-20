@@ -1,27 +1,88 @@
-# Madhesh Vivekananandan
+# Hi, I'm Madhesh Vivekanandan 👋
 
-GenAI-focused Software Engineer · Python, FastAPI, RAG & LLMs · Building production-grade agentic systems and workflows.
+**GenAI-focused Software Engineer** building intelligent applications with **Python, FastAPI, RAG, LLMs, and backend systems**.
 
-## About
-I build scalable backend systems and GenAI applications that combine retrieval, reasoning, and automation. I focus on clean API design, robust prompt engineering, retrieval-augmented generation (RAG) pipelines, and multi-step agent workflows that integrate vector search, LLMs, and orchestration for real-world use.
+I enjoy designing systems that combine **retrieval, reasoning, automation, and clean APIs** — from document Q&A pipelines to conversational assistants and agentic workflows.
 
-## Tech & Tools
-- Languages: Python, JavaScript (React.js)
-- Backend: FastAPI, REST, GraphQL, SQLAlchemy
-- GenAI: RAG, LLM APIs (OpenAI, Hugging Face, Ollama), vector DBs (Qdrant)
-- Databases: Postgres, MySQL, Neo4j
-- DevOps & Testing: Docker, GitHub, Linux, Shell scripting, MLflow, pytest
+---
 
-## Highlights
-- Built RAG-based document Q&A systems and full-stack LLM-powered conversational assistants.
-- Designed agentic data-analytics workflows that translate natural-language queries into SQL, visualizations, and summaries.
-- Experienced shipping production services with automated validation and observability for LLM-driven pipelines.
+## 🚀 What I work on
 
-## Selected projects
-- **RAG-Based Document QA** — Ingests documents, stores embeddings in Qdrant, and serves context-aware answers via FastAPI.
-- **LLM-Powered Conversational Assistant** — Full-stack assistant with prompt engineering, frontend UI, and FastAPI orchestration.
-- **Agentic Data Analyst** — Multi-step agent that converts NL queries into SQL and visualizations, integrated with MLflow and pytest-based natural-language tests.
+- **LLM / GenAI applications**
+- **RAG pipelines** for context-aware question answering
+- **FastAPI backend systems** and API orchestration
+- **Agentic workflows** for automation and analytics
+- **ML and data-driven applications**
+- **Interactive AI projects and experimental apps**
 
-## Want to collaborate?
-I’m open to conversations about GenAI applications, backend systems, or open-source contributions.  
-- LinkedIn: [madhesh-vivekanandan](https://www.linkedin.com/in/madhesh-vivekanandan/) · Email: [madheshvivekanandan@gmail.com](mailto:madheshvivekanandan@gmail.com)
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+Python, JavaScript
+
+**Backend & APIs**  
+FastAPI, REST APIs, GraphQL, SQLAlchemy
+
+**GenAI / ML**  
+RAG, LLM APIs, OpenAI, Hugging Face, Ollama, Qdrant, MLflow
+
+**Databases**  
+PostgreSQL, MySQL, Neo4j
+
+**Tools & DevOps**  
+Docker, GitHub, Linux, Shell scripting, pytest
+
+---
+
+## 📌 Featured Projects
+
+### [RAG-Based-Document-Question-Answering-System](https://github.com/Madheshvivekanandan/RAG-Based-Document-Question-Answering-System)
+A document question-answering system that ingests documents, stores embeddings, and serves context-aware answers.
+
+### [LLM-Powered-Conversational-Assistant](https://github.com/Madheshvivekanandan/LLM-Powered-Conversational-Assistant)
+A full-stack conversational assistant with prompt engineering, frontend UI, and FastAPI orchestration.
+
+### [voice_ai](https://github.com/Madheshvivekanandan/voice_ai)
+Voice-driven AI experimentation focused on more natural interaction workflows.
+
+### [website_to_dataset](https://github.com/Madheshvivekanandan/website_to_dataset)
+A practical utility for turning website content into structured datasets for downstream AI / ML use cases.
+
+### [Sequence-Recall](https://github.com/Madheshvivekanandan/Sequence-Recall)
+An interactive memory-based project that reflects experimentation with engagement, logic, and user interaction.
+
+### [Path-Optimisation--TSP-](https://github.com/Madheshvivekanandan/Path-Optimisation--TSP-)
+A path optimization project exploring algorithmic problem-solving and classic optimization ideas.
+
+---
+
+## 🌱 Currently exploring
+
+- Better **agentic workflows**
+- More reliable **RAG architectures**
+- **Voice + LLM** interfaces
+- Production-ready **AI backend systems**
+
+---
+
+## 🤝 Open to
+
+- Collaborating on **GenAI / LLM projects**
+- Building **backend systems for AI products**
+- Contributing to **open source**
+- Discussing ideas around **RAG, agents, and applied AI**
+
+---
+
+## 📫 Connect with me
+
+- **LinkedIn:** [madhesh-vivekanandan](https://www.linkedin.com/in/madhesh-vivekanandan/)
+- **Email:** [madheshvivekanandan@gmail.com](mailto:madheshvivekanandan@gmail.com)
+
+---
+
+## ⚡ Profile Summary
+
+I like building software that turns AI capabilities into useful products — especially systems that are practical, testable, and scalable.
