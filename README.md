@@ -39,16 +39,34 @@ Tested, observable, boring to operate. Software that works once on my machine is
 
 ---
 
-## What that looks like in practice
+## Where I've worked in the system
 
-Things I reach for often, roughly in order of fluency:
+Described by the problem, not the language — the tools in parentheses are just what those
+particular jobs happened to be built with.
 
-`Python` · `JavaScript` · `FastAPI` · `REST` · `GraphQL` · `SQLAlchemy` · `PostgreSQL` ·
-`MySQL` · `Neo4j` · `Qdrant` · `Docker` · `Linux` · `Shell` · `pytest` · `LLM APIs` ·
-`RAG` · `Hugging Face` · `Ollama` · `MLflow`
+**Retrieval and inference layers** — turning a pile of documents into something a model can
+answer from: chunking, embeddings, vector stores, ranking, and the guardrails that keep an
+answer honest. *(Python, embedding models, Qdrant)*
 
-Treat this as evidence of range, not a checklist of what I'm limited to. The list looked
-different a year ago and will look different next year.
+**Service and API layers** — designing the contract, then the orchestration behind it:
+request shaping, downstream calls, error semantics, keeping latency predictable.
+*(FastAPI, REST, GraphQL)*
+
+**Data modelling and persistence** — schema design, relational vs. graph vs. vector depending
+on the questions being asked, and migrations that don't break what's live.
+*(PostgreSQL, MySQL, Neo4j, SQLAlchemy)*
+
+**Model-facing plumbing** — prompts, tool calls, agent loops, evaluation and tracking, plus
+the fallbacks for when a model does something unexpected. *(LLM APIs, Hugging Face, Ollama, MLflow)*
+
+**Interfaces, when the interface is the blocker** — enough frontend to make the thing usable
+and see whether the design actually holds up in someone's hands. *(JavaScript)*
+
+**Running and verifying it** — containers, environment setup, scripting away repetition,
+tests that catch real regressions rather than pad a number. *(Docker, Linux, Shell, pytest)*
+
+None of this is a boundary. Give me a domain I haven't touched and the tooling is the easy
+part — this list looked different a year ago and will look different next year.
 
 ---
 
