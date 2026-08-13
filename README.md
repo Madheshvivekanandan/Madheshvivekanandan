@@ -1,88 +1,101 @@
-# Hi, I'm Madhesh Vivekanandan 👋
+# Madhesh Vivekanandan
 
-**GenAI-focused Software Engineer** building intelligent applications with **Python, FastAPI, RAG, LLMs, and backend systems**.
+**Software engineer who builds things.**
 
-I enjoy designing systems that combine **retrieval, reasoning, automation, and clean APIs** — from document Q&A pipelines to conversational assistants and agentic workflows.
+Not a frontend developer. Not a backend developer. Not a Java developer.
+Just an engineer who can move across the stack, reason about systems, debug unfamiliar
+problems, and hold a solid mental model of how software actually works.
 
----
-
-## 🚀 What I work on
-
-- **LLM / GenAI applications**
-- **RAG pipelines** for context-aware question answering
-- **FastAPI backend systems** and API orchestration
-- **Agentic workflows** for automation and analytics
-- **ML and data-driven applications**
-- **Interactive AI projects and experimental apps**
+Languages and frameworks are tools I pick up when the problem asks for them — not
+identities I carry around. I work AI-assisted by default: I use LLMs and coding agents
+the way an engineer uses a compiler or a debugger, as leverage on top of judgment,
+never as a substitute for understanding the code I ship.
 
 ---
 
-## 🛠 Tech Stack
+## How I work
 
-**Languages**  
-Python, JavaScript
+**I start from the system, not the syntax.**
+Before writing code I want to know where the data comes from, what the failure modes are,
+what's actually slow, and which constraint the design has to respect. The implementation
+language is a detail that follows.
 
-**Backend & APIs**  
-FastAPI, REST APIs, GraphQL, SQLAlchemy
+**I'm comfortable being unfamiliar.**
+Dropped into a codebase I've never seen, in a language I don't use daily, I can read my way
+to the part that matters, form a hypothesis, and prove it right or wrong. Debugging is a
+first-class skill, not a chore between features.
 
-**GenAI / ML**  
-RAG, LLM APIs, OpenAI, Hugging Face, Ollama, Qdrant, MLflow
+**I move across boundaries.**
+API design, data modelling, retrieval and inference layers, glue scripts, the UI when the UI
+is what's blocking — I go where the work is instead of stopping at a job title.
 
-**Databases**  
-PostgreSQL, MySQL, Neo4j
+**I build with AI, deliberately.**
+Agentic workflows, RAG systems, LLM-backed services — both as things I build and as the way
+I build. I know where models are genuinely useful, where they quietly lie, and how to put
+verification around them so a system stays trustworthy.
 
-**Tools & DevOps**  
-Docker, GitHub, Linux, Shell scripting, pytest
-
----
-
-## 📌 Featured Projects
-
-### [RAG-Based-Document-Question-Answering-System](https://github.com/Madheshvivekanandan/RAG-Based-Document-Question-Answering-System)
-A document question-answering system that ingests documents, stores embeddings, and serves context-aware answers.
-
-### [LLM-Powered-Conversational-Assistant](https://github.com/Madheshvivekanandan/LLM-Powered-Conversational-Assistant)
-A full-stack conversational assistant with prompt engineering, frontend UI, and FastAPI orchestration.
-
-### [voice_ai](https://github.com/Madheshvivekanandan/voice_ai)
-Voice-driven AI experimentation focused on more natural interaction workflows.
-
-### [website_to_dataset](https://github.com/Madheshvivekanandan/website_to_dataset)
-A practical utility for turning website content into structured datasets for downstream AI / ML use cases.
-
-### [Sequence-Recall](https://github.com/Madheshvivekanandan/Sequence-Recall)
-An interactive memory-based project that reflects experimentation with engagement, logic, and user interaction.
-
-### [Path-Optimisation--TSP-](https://github.com/Madheshvivekanandan/Path-Optimisation--TSP-)
-A path optimization project exploring algorithmic problem-solving and classic optimization ideas.
+**I care that it survives contact with reality.**
+Tested, observable, boring to operate. Software that works once on my machine isn't finished.
 
 ---
 
-## 🌱 Currently exploring
+## What that looks like in practice
 
-- Better **agentic workflows**
-- More reliable **RAG architectures**
-- **Voice + LLM** interfaces
-- Production-ready **AI backend systems**
+Things I reach for often, roughly in order of fluency:
 
----
+`Python` · `JavaScript` · `FastAPI` · `REST` · `GraphQL` · `SQLAlchemy` · `PostgreSQL` ·
+`MySQL` · `Neo4j` · `Qdrant` · `Docker` · `Linux` · `Shell` · `pytest` · `LLM APIs` ·
+`RAG` · `Hugging Face` · `Ollama` · `MLflow`
 
-## 🤝 Open to
-
-- Collaborating on **GenAI / LLM projects**
-- Building **backend systems for AI products**
-- Contributing to **open source**
-- Discussing ideas around **RAG, agents, and applied AI**
+Treat this as evidence of range, not a checklist of what I'm limited to. The list looked
+different a year ago and will look different next year.
 
 ---
 
-## 📫 Connect with me
+## Selected work
 
-- **LinkedIn:** [madhesh-vivekanandan](https://www.linkedin.com/in/madhesh-vivekanandan/)
-- **Email:** [madheshvivekanandan@gmail.com](mailto:madheshvivekanandan@gmail.com)
+Each of these exists because a problem needed solving, and each one pushed me into
+something I hadn't done before.
+
+**[RAG-Based Document Question Answering](https://github.com/Madheshvivekanandan/RAG-Based-Document-Question-Answering-System)**
+Ingestion, embedding storage, and retrieval wired into a service that answers questions
+with context instead of guesses. Where I learned how much of RAG quality lives in the
+unglamorous parts: chunking, ranking, and knowing when to say "I don't know."
+
+**[LLM-Powered Conversational Assistant](https://github.com/Madheshvivekanandan/LLM-Powered-Conversational-Assistant)**
+End to end — prompt design, orchestration layer, and the interface on top. Full-stack by
+necessity rather than by label.
+
+**[voice_ai](https://github.com/Madheshvivekanandan/voice_ai)**
+Voice as an interface to a model. Latency, turn-taking, and the gap between a demo that
+impresses and an interaction that feels natural.
+
+**[website_to_dataset](https://github.com/Madheshvivekanandan/website_to_dataset)**
+A tool built for myself: turn messy web content into structured data worth training or
+querying against. Most useful software starts as someone's own bottleneck.
+
+**[Path Optimisation (TSP)](https://github.com/Madheshvivekanandan/Path-Optimisation--TSP-)**
+Classic optimisation, implemented rather than read about. Algorithms stop being abstract
+once you have to make one converge.
+
+**[Sequence Recall](https://github.com/Madheshvivekanandan/Sequence-Recall)**
+An interactive build about state, timing, and feedback loops — the small-scale version of
+problems that reappear at scale.
 
 ---
 
-## ⚡ Profile Summary
+## Currently working on
 
-I like building software that turns AI capabilities into useful products — especially systems that are practical, testable, and scalable.
+Getting better at the hard parts: agentic systems that stay reliable past the demo,
+retrieval that degrades gracefully, and using AI tooling to raise the ceiling on what one
+engineer can build and still fully understand.
+
+---
+
+## Get in touch
+
+Good conversations: systems design, applied AI, debugging war stories, anything that needs
+building.
+
+[LinkedIn](https://www.linkedin.com/in/madhesh-vivekanandan/) ·
+[madheshvivekanandan@gmail.com](mailto:madheshvivekanandan@gmail.com)
