@@ -47,8 +47,10 @@ Not a boundary — next year's list will look different.
 
 ---
 
-### Now
+### What I'm figuring out right now
 
-Agentic systems that stay reliable past the demo. Retrieval that fails gracefully.
+How to make AI systems that don't break the moment real users touch them —
+handling the failed tool call, the nonsense model output, the question with no good answer.
+A demo only has to work once. Anything else has to keep working.
 
 **[LinkedIn](https://www.linkedin.com/in/madhesh-vivekanandan/)** · **[Email](mailto:madheshvivekanandan@gmail.com)**
